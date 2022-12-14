@@ -59,6 +59,12 @@
     }
 
  }
+ @media screen and (min-width:3000px){
+    .app__specialMenu-menu_items {
+        margin:2rem;
+        padding: 2rem;
+    }
+ }
  @media screen and (max-width:2000px){
 
     .app__specialMenu-menu_img {
